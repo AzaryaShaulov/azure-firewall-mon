@@ -22,7 +22,7 @@
     "@angular/material": "^20.0.4",
     "@angular/platform-browser": "~20.0.5",
     "@angular/platform-browser-dynamic": "~20.0.5",
-    "@angular/router": "~20.0.5",
+    "@angular/router": "~20.3.33",
     "@azure/event-hubs": "^6.0.0",
     "@azure/identity": "^4.9.1",
     "@azure/openai": "^2.0.0",
